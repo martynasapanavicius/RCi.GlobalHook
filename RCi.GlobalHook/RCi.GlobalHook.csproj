@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Description>Global hook abstraction with predefined global mouse and keyboard hooks.</Description>
+    <Authors>Martynas Apanavicius</Authors>
+    <Company>Martynas Apanavicius</Company>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseFile></PackageLicenseFile>
+    <RepositoryUrl>https://github.com/martynasapanavicius/RCi.GlobalHook</RepositoryUrl>
+    <PackageTags>hook, hooks, global, mouse, keyboard, key, win, windows</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
